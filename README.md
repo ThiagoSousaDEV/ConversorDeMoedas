@@ -1,4 +1,4 @@
-<h1 align="center">Conversos de Moedas</h1>
+<h1 align="center">Conversor de Moedas</h1>
 <p align="center">
   <img src="https://img.shields.io/github/license/ThiagosousaDEV/ConversorDeMoedas">
   <img src="http://img.shields.io/static/v1?label=status&message=concluido&color=GREEN&style=flat"/>
