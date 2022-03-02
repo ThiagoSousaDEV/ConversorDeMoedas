@@ -13,6 +13,8 @@
 
 ## Descrição do Projeto
 Conversor de moedas feito usando Vue.js, projeto bem simples para iniciar o estudo nesse framework.
+Obs: Por ser uma API gratuita ela pode estar forma do ar em alguns momentos... 
+Pode-se acompanhar o status do servidor aqui https://www.currencyconverterapi.com/server-status
 
 ## Tecnologias
 - Vue.js
